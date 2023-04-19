@@ -1,0 +1,26 @@
+{
+  "name": "react-iban-input",
+  "version": "1.0.0",
+  "main": "iban.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fatih Büyük",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbuyuk/react-iban-input.git"
+  },
+  "keywords": [
+    "iban",
+    "iban",
+    "input",
+    "react",
+    "iban"
+  ],
+  "bugs": {
+    "url": "https://github.com/fbuyuk/react-iban-input/issues"
+  },
+  "homepage": "https://github.com/fbuyuk/react-iban-input#readme",
+  "description": ""
+}
